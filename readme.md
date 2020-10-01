@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **endymion1818@gmail.com**
 
-- ⚡ Fun fact: **I really, really like books.**
+- ⚡ Fun fact: **I'm partial to James Joyce, Marcel Proust, Virginia Woolf, John Keats, Victor Hugo, Boris Pasternak and many other poets and authors.**
 
 ### Blog posts:
 <!-- BLOG-POST-LIST:START -->
