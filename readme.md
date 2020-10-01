@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **I really, really like books.**
 
-### Blogs posts
+### Blog posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
