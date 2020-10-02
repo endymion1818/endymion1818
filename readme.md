@@ -24,7 +24,7 @@
 <p> 
 <h3>Connect with me:</h3>
 <a href="https://codepen.io/endymion1818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="endymion1818" height="30" width="40" /></a><a href="https://codesandbox.com/endymion1818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="endymion1818" height="30" width="40" /></a><a href="https://dev.to/endymion1818" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="endymion1818" height="30" width="40" /></a><a href="https://linkedin.com/in/benjaminread1980" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminread1980" height="30" width="40" /></a><a href="https://twitter.com/muzzlehatch_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muzzlehatch_" height="30" width="40" /></a><a href="https://stackoverflow.com/users/3715390" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3715390" height="30" width="40" /></a>
-<a href="/https://deliciousreverie.co.uk/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://deliciousreverie.co.uk/feed.xml" height="30" width="40" /></a></p>
+<a href="https://deliciousreverie.co.uk/feed.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://deliciousreverie.co.uk/feed.xml" height="30" width="40" /></a></p>
 
 <h3>Languages and Tools:</h3>
 <p>
