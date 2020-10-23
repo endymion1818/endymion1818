@@ -20,6 +20,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tools for Production Ready Code](https://deliciousreverie.co.uuk/post/tools-production-ready-code/)
+- [Publishing both JS and non-JS sites](https://deliciousreverie.co.uuk/post/publishing-both-js-non-js-sites/)
+- [Freelancing: options and suggestions](https://deliciousreverie.co.uuk/post/freelancing-options-suggestions/)
+- [Don't fear the JAMStack](https://deliciousreverie.co.uuk/post/dont-fear-jamstack/)
+- [Explaining technical things to nontechnical thinkers](https://deliciousreverie.co.uuk/post/explaining-technical-to-nontechnical-audience/)
 <!-- BLOG-POST-LIST:END -->
 
 <p> 
