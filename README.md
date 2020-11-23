@@ -20,11 +20,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The JavaScript CMS Landscape](https://deliciousreverie.co.uk/post/javascript-cms-landscape/)
 - [Three UI Component Conundrums](https://deliciousreverie.co.uk/post/three-ui-component-conundrums/)
 - [Tools for Production Ready Code](https://deliciousreverie.co.uk/post/tools-production-ready-code/)
 - [Publishing both JS and non-JS sites](https://deliciousreverie.co.uk/post/publishing-both-js-non-js-sites/)
 - [Freelancing: options and suggestions](https://deliciousreverie.co.uk/post/freelancing-options-suggestions/)
-- [Don't fear the JAMStack](https://deliciousreverie.co.uk/post/dont-fear-jamstack/)
 <!-- BLOG-POST-LIST:END -->
 
 <p> 
