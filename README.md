@@ -1,7 +1,8 @@
 <h1>Hi 👋, I'm Ben</h1>
-<h3>{ 没要最好只有更好 || Not perfect but always improving } - JavaScript - Serverless - JAMStack - and books</h3>
 
-- 🔭 I’m currently working as a Software Engineer at [Zopa](https://www.zopa.com/)
+- 🔭 I work as a Software Engineer at [Zopa](https://www.zopa.com/)
+
+- 💌 I maintain [react-headroom](https://github.com/KyleAMathews/react-headroom) with [@janczizikow](https://github.com/janczizikow), and enjoy contributing to [GatsbyJS](http://gatsbyjs.com), [Webiny](http://webiny.com), [Ghost](http://ghost.org) and [Strapi](https://strapi.io), but I have 3 young kids so I don't do much OSS these days.
 
 - 🌱 I’m currently learning **Serverless architecture, SRE / DevOps Engineering ... and JavaScript**
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **endymion1818@gmail.com**
 
-- ⚡ Fun fact: **I'm partial to James Joyce, Marcel Proust, Virginia Woolf, John Keats, Victor Hugo, Boris Pasternak and many other poets and authors.**
+- ⚡ Fun fact: **I'm partial to James Joyce, Marcel Proust, Virginia Woolf, John Keats, Victor Hugo, Boris Pasternak, Jorge Luis Borges, Mervyn Peake and many other poets and authors.**
 
 
 # Blog posts
