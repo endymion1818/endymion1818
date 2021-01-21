@@ -19,11 +19,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated accessibility testing is great, but ...](https://deliciousreverie.co.uk/post/automated-accessibility-testing-is-great-but/)
 - [4 things that I learned from counselling training](https://deliciousreverie.co.uk/post/4-things-learned-from-counselling-training/)
 - [2020 Review / 2021 Aims](https://deliciousreverie.co.uk/post/2020-review-2021-aims/)
 - [The JavaScript CMS Landscape](https://deliciousreverie.co.uk/post/javascript-cms-landscape/)
 - [Three UI Component Conundrums](https://deliciousreverie.co.uk/post/three-ui-component-conundrums/)
-- [Tools for Production Ready Code](https://deliciousreverie.co.uk/post/tools-production-ready-code/)
 <!-- BLOG-POST-LIST:END -->
 
 <p> 
