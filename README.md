@@ -2,7 +2,7 @@
 
 - 🔭 I work as a Software Engineer at [Zopa](https://www.zopa.com/), where I also co-chair the Frontend Guild, helping to align different developers on teams towards shared goals and providing a community of mutual support.
 
-- 📝 I [write articles for magazines](https://deliciousreverie.co.uk/tags/talks) and have [given talks](https://deliciousreverie.co.uk/tags/published-articles), both of which I'd really like to do again.
+- 📝 I [write articles for magazines](https://deliciousreverie.co.uk/tags/published-articles) and have [given talks](https://deliciousreverie.co.uk/tags/talks), both of which I'd really like to do again.
 
 - 💌 I maintain [react-headroom](https://github.com/KyleAMathews/react-headroom) with [@janczizikow](https://github.com/janczizikow), and enjoy contributing to [GatsbyJS](http://gatsbyjs.com), [Webiny](http://webiny.com), [Ghost](http://ghost.org) and [Strapi](https://strapi.io), but I have 3 young kids so I don't do much OSS these days.
 
