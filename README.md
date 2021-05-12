@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Ben</h1>
 
-- 🔭 I work as a Software Engineer at [Zopa](https://www.zopa.com/), where I also co-chair the Frontend Guild, helping to align different developers on teams towards shared goals and providing a community of mutual support.
+- 🔭 I work as a Senior Frontend Engineer at [Purple Bricks](https://www.purplebricks.co.uk), where I am responsible for delivering a suite of micro-frontends and services built on NextJS and which use Nx for monorepo management. The applications are all containerised and hosted using Microsoft Azure.
 
 - 📝 I [write articles for magazines](https://deliciousreverie.co.uk/tags/published-articles) and have [given talks](https://deliciousreverie.co.uk/tags/talks), both of which I'd really like to do again.
 
