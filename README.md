@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [First steps with Sveltekit](https://deliciousreverie.co.uk/post/first-steps-with-sveltekit/)
 - [Towards better hydration](https://deliciousreverie.co.uk/post/towards-better-rehydration/)
 - [Should I use ternary or the logical and operator?](https://deliciousreverie.co.uk/post/should-i-use-ternary-or-logicaland-in-react/)
 - [Working with styled components: multiple nested properties](https://deliciousreverie.co.uk/post/nesting-styled-components-properties/)
 - [Predictions for GatsbyConf 2021](https://deliciousreverie.co.uk/post/gatsbyjs-predictions-2021/)
-- [Talk: accessibility and you](https://deliciousreverie.co.uk/post/talk-accessibility-you/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
