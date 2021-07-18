@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React: data fetching results in type error: object is not a function](https://deliciousreverie.co.uk/post/react-data-fetching-typerror-object-is-not-a-function/)
 - [Lowest tech first](https://deliciousreverie.co.uk/post/lowest-tech-first/)
 - [monorepos.](https://deliciousreverie.co.uk/post/monorepos/)
 - [First steps with Sveltekit](https://deliciousreverie.co.uk/post/first-steps-with-sveltekit/)
 - [Towards better hydration](https://deliciousreverie.co.uk/post/towards-better-rehydration/)
-- [Should I use ternary or the logical and operator?](https://deliciousreverie.co.uk/post/should-i-use-ternary-or-logicaland-in-react/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
