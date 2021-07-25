@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What should I use to build my new project?](https://deliciousreverie.co.uk/post/tech-decision-tree/)
+- [Why Astro matters](https://deliciousreverie.co.uk/post/why-astro-matters/)
 - [React: data fetching results in type error: object is not a function](https://deliciousreverie.co.uk/post/react-data-fetching-typerror-object-is-not-a-function/)
 - [Lowest tech first](https://deliciousreverie.co.uk/post/lowest-tech-first/)
 - [monorepos.](https://deliciousreverie.co.uk/post/monorepos/)
-- [First steps with Sveltekit](https://deliciousreverie.co.uk/post/first-steps-with-sveltekit/)
-- [Towards better hydration](https://deliciousreverie.co.uk/post/towards-better-rehydration/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
