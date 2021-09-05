@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to resolve Jest issues: tests passing, but code coverage fails!](https://deliciousreverie.co.uk/post/how-to-resolve-jest-issues-tests-passing-but-code-coverage-fails/)
 - [What should I use to build my new project?](https://deliciousreverie.co.uk/post/tech-decision-tree/)
 - [Why Astro matters](https://deliciousreverie.co.uk/post/why-astro-matters/)
 - [React: data fetching results in type error: object is not a function](https://deliciousreverie.co.uk/post/react-data-fetching-typerror-object-is-not-a-function/)
 - [Lowest tech first](https://deliciousreverie.co.uk/post/lowest-tech-first/)
-- [monorepos.](https://deliciousreverie.co.uk/post/monorepos/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
