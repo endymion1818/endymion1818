@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [On digital estates](https://deliciousreverie.co.uk/post/on-digital-estates/)
 - [6 reasons why we chose Nx as our monorepo management tool](https://deliciousreverie.co.uk/post/6-reasons-why-we-chose-nx/)
 - [Introspection: comparing myself to others, glorifying the past](https://deliciousreverie.co.uk/post/introspection-comparing-glorifying-the-past/)
 - [How to resolve Jest issues: tests passing, but code coverage fails!](https://deliciousreverie.co.uk/post/how-to-resolve-jest-issues-tests-passing-but-code-coverage-fails/)
 - [What should I use to build my new project?](https://deliciousreverie.co.uk/post/tech-decision-tree/)
-- [Why Astro matters](https://deliciousreverie.co.uk/post/why-astro-matters/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
