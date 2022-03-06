@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [2021 Review / 2022 Aims](https://deliciousreverie.co.uk/post/2021-review-2022-aims/)
-- [On digital estates](https://deliciousreverie.co.uk/post/on-digital-estates/)
-- [6 reasons why we chose Nx as our monorepo management tool](https://deliciousreverie.co.uk/post/6-reasons-why-we-chose-nx/)
-- [Introspection: comparing myself to others, glorifying the past](https://deliciousreverie.co.uk/post/introspection-comparing-glorifying-the-past/)
-- [How to resolve Jest issues: tests passing, but code coverage fails!](https://deliciousreverie.co.uk/post/how-to-resolve-jest-issues-tests-passing-but-code-coverage-fails/)
+- [2021 Review / 2022 Aims](https://example.com/posts/2021-review-2022-aims/)
+- [On digital estates](https://example.com/posts/on-digital-estates/)
+- [6 reasons why we chose Nx as our monorepo management tool](https://example.com/posts/6-reasons-why-we-chose-nx/)
+- [Introspection: comparing myself to others, glorifying the past](https://example.com/posts/introspection-comparing-glorifying-the-past/)
+- [How to resolve Jest issues: tests passing, but code coverage fails!](https://example.com/posts/how-to-resolve-jest-issues-tests-passing-but-code-coverage-fails/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
