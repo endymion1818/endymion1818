@@ -1,18 +1,18 @@
 <h1>Hi 👋, I'm Ben</h1>
 
-- 🔭 I work as a Senior Frontend Engineer at [Purple Bricks](https://www.purplebricks.co.uk), where I am responsible for delivering a suite of micro-frontends and services built on NextJS and which use Nx for monorepo management. The applications are all containerised and hosted using Microsoft Azure.
+- 🔭 I'm helping to build the future of content management as a Software Engineer and Developer Relations at [Webiny](https://webiny.com), the OSS serverless enterprise CMS. That's a lot of acronyms but think of something like your own instance of Contentful that you can host on your own AWS account.
 
-- 📝 I [write articles for magazines](https://deliciousreverie.co.uk/tags/published-articles) and have [given talks](https://deliciousreverie.co.uk/tags/talks), both of which I'd really like to do again.
+- 📝 I [write articles for magazines](https://deliciousreverie.co.uk/tags/published-articles), blog posts, and have [given talks](https://deliciousreverie.co.uk/tags/talks). I'm hoping to get into streaming and presenting as well!
 
-- 💌 I maintain [react-headroom](https://github.com/KyleAMathews/react-headroom) with [@janczizikow](https://github.com/janczizikow), and enjoy contributing to [GatsbyJS](http://gatsbyjs.com), [Webiny](http://webiny.com), [Ghost](http://ghost.org) and [Strapi](https://strapi.io), but I have 3 young kids so I don't do much OSS these days.
+- 💌 Open Source: Webiny is open source 🎉. But I also maintain [react-headroom](https://github.com/KyleAMathews/react-headroom) with [@janczizikow](https://github.com/janczizikow), and enjoy contributing to [GatsbyJS](http://gatsbyjs.com), [Webiny](http://webiny.com), [Ghost](http://ghost.org) and [Strapi](https://strapi.io).
 
-- 🌱 I’m currently learning **Serverless architecture, SRE / DevOps Engineering ... and JavaScript**
+- 🌱 I’m currently learning more about serverless architecture, NodeJS and Developer relations.
 
 - 👨‍💻 All of my projects are available at [https://github.com/endymion1818/](https://github.com/endymion1818/)
 
 - 📝 I regularly write articles on [https://deliciousreverie.co.uk/](https://deliciousreverie.co.uk/)
 
-- 💬 Ask me about **anything I've written about on my blog**
+- 💬 Ask me about **anything I've written about on my blog**, or about Webiny!
 
 - 📫 How to reach me **endymion1818@gmail.com**
 
