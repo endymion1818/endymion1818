@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Polymorphic Elements in Astro](https://deliciousreverie.co.uk/posts/polymorphic-elements-astro/)
 - [Poems about Time](https://deliciousreverie.co.uk/posts/poems-about-time/)
 - [2021 Review - 2022 Aims](https://deliciousreverie.co.uk/posts/2021-review-2022-aims/)
 - [A congratulatory message with hidden meaning](https://deliciousreverie.co.uk/posts/congratulatory-message-hidden-meaning/)
 - [2022 Website Rebuild](https://deliciousreverie.co.uk/posts/2022-website-rebuild/)
-- [Testing Packages Locally Using Lerna &amp; Verdaccio](https://deliciousreverie.co.uk/posts/testing-packages-locally-with-verdaccio-lerna/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
