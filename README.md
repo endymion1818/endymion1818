@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Types: JSDoc or via TypeScript](https://deliciousreverie.co.uk/posts/types-via-jsdoc-or-typescript/)
 - [Let&#39;s build a carousel!](https://deliciousreverie.co.uk/posts/lets-build-a-carousel/)
 - [Publishing Poetry with Webiny CMS and Astro](https://deliciousreverie.co.uk/posts/publishing-poetry-with-webiny-cms-astro/)
 - [Fun with Callbacks](https://deliciousreverie.co.uk/posts/fun-with-callbacks/)
 - [Polymorphic Elements in Astro](https://deliciousreverie.co.uk/posts/polymorphic-elements-astro/)
-- [Poems about Time](https://deliciousreverie.co.uk/posts/poems-about-time/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
