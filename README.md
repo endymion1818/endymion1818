@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Iterate.](https://deliciousreverie.co.uk/posts/iterate)
 - [A Collection of Tailwind UI Loading States](https://deliciousreverie.co.uk/posts/collection-tailwind-ui-loading-states)
 - [2023 Site Rebuild](https://deliciousreverie.co.uk/posts/2023-site-rebuild)
 - [Deploying Nx monorepos to Netlify in 2023](https://deliciousreverie.co.uk/posts/deploying-monorepos-to-netlify-in-2023)
 - [Is JSDoc Better Than TypeScript? A Real World Example](https://deliciousreverie.co.uk/posts/types-via-jsdoc-or-typescript)
-- [Let&#39;s build a carousel!](https://deliciousreverie.co.uk/posts/lets-build-a-carousel)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
