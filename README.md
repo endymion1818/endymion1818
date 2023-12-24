@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Selecting parents of a nested element with the css :has selector](https://deliciousreverie.co.uk/posts/selecting-parents-of-nested-element-css-has-selector)
 - [Managing Quality across Different Codebases](https://deliciousreverie.co.uk/posts/managing-quality-across-different-codebases)
 - [Tracking video plays](https://deliciousreverie.co.uk/posts/tracking-video-plays)
 - [Tailwind progressively collapsing menu.](https://deliciousreverie.co.uk/posts/tailwind-ui-progressively-collapsing-menu)
 - [Iterate.](https://deliciousreverie.co.uk/posts/iterate)
-- [A Collection of Tailwind UI Loading States](https://deliciousreverie.co.uk/posts/collection-tailwind-ui-loading-states)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
