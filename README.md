@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sending Emails via SendGrid with Cloudflare Functions](https://deliciousreverie.co.uk/posts/sending-emails-with-cloudflare-functions)
 - [Selecting parents of a nested element with the css :has selector](https://deliciousreverie.co.uk/posts/selecting-parents-of-nested-element-css-has-selector)
 - [Managing Quality across Different Codebases](https://deliciousreverie.co.uk/posts/managing-quality-across-different-codebases)
 - [Tracking video plays](https://deliciousreverie.co.uk/posts/tracking-video-plays)
 - [Tailwind progressively collapsing menu.](https://deliciousreverie.co.uk/posts/tailwind-ui-progressively-collapsing-menu)
-- [Iterate.](https://deliciousreverie.co.uk/posts/iterate)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
