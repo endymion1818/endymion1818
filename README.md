@@ -21,11 +21,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comments are now live](https://deliciousreverie.co.uk/blog/comments-are-live/)
 - [Alliteration in Poetry](https://deliciousreverie.co.uk/blog/alliteration-in-poetry/)
 - [How I&#39;m doing](https://deliciousreverie.co.uk/blog/how-im-doing/)
 - [Sending Emails via SendGrid with Cloudflare Functions](https://deliciousreverie.co.uk/blog/sending-emails-with-cloudflare-functions/)
 - [Selecting parents of a nested element with the css :has selector](https://deliciousreverie.co.uk/blog/selecting-parents-of-nested-element-css-has-selector/)
-- [Managing Quality across Different Codebases](https://deliciousreverie.co.uk/blog/managing-quality-across-different-codebases/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
