@@ -30,7 +30,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
-<p><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="endymion1818" height="30" width="40" /></a><a href="https://linkedin.com/in/benjaminread1980"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminread1980" height="30" width="40" /></a><a href="https://deliciousreverie.co.uk/rss.xml"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://deliciousreverie.co.uk/feed.xml" height="30" width="40" /></a></p>
+<p><a href="https://linkedin.com/in/benjaminread1980"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminread1980" height="30" width="40" /></a><a href="https://deliciousreverie.co.uk/rss.xml"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://deliciousreverie.co.uk/feed.xml" height="30" width="40" /></a></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endymion1818&layout=compact" alt="endymion1818" /></p>
 
