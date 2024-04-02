@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Ben</h1>
 
-- 🔭 I'm an experienced Developer Relations product evangelist and community builder, a Senior JavaScript Software Engineer with experience of FinTech and PropTech, and a literature buff.
+- 🔭 I'm a Senior JavaScript Software Engineer with experience of FinTech and PropTech industries. I'm confident with React and friends, but I'm equally happy to work with Svelte or vanilla JavaScript. I'm one of those people who enjoy writing CSS.
 
-- 📝 I [write articles for magazines](https://deliciousreverie.co.uk/tags/published-articles), blog posts, and have [given talks](https://deliciousreverie.co.uk/tags/talks). I'm hoping to get into streaming and presenting as well!
+- 📝 I write articles for print and online magazines, and have given a few conference talks. I also have my own YouTube channel.
 
-- 💌 Open Source: I maintain [react-headroom](https://github.com/KyleAMathews/react-headroom) with [@janczizikow](https://github.com/janczizikow), and enjoy contributing to OSS and COSS projects like [GatsbyJS](http://gatsbyjs.com), [Webiny](http://webiny.com), [Strapi](https://strapi.io) and others.
+- 💌 Open Source: I maintain [react-headroom](https://github.com/KyleAMathews/react-headroom) with [@janczizikow](https://github.com/janczizikow), and enjoy contributing to open-source projects.
 
-- 🌱 I’m currently learning more about serverless architecture, NodeJS and Developer relations.
+- 🌱 I’m currently learning more about fullstack software engineering, and I'm very interested in building more things with native web technologies, such as web components.
 
 - 👨‍💻 All of my projects are available at [https://github.com/endymion1818/](https://github.com/endymion1818/)
 
@@ -16,11 +16,12 @@
 
 - 📫 How to reach me **endymion1818@gmail.com**
 
-- ⚡ Fun fact: **I'm partial to James Joyce, Marcel Proust, Virginia Woolf, John Keats, Victor Hugo, Boris Pasternak, Jorge Luis Borges, Mervyn Peake and many other poets and authors.**
-
+- ⚡ Outside of work: Dwi'n dysgu Cymraeg，也可以说中文。I like sailing and horse riding.
 
 # Blog posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Comments are now live](https://deliciousreverie.co.uk/blog/comments-are-live/)
 - [Alliteration in Poetry](https://deliciousreverie.co.uk/blog/alliteration-in-poetry/)
 - [How I&#39;m doing](https://deliciousreverie.co.uk/blog/how-im-doing/)
@@ -29,8 +30,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
-<p><a href="https://codepen.io/endymion1818"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="endymion1818" height="30" width="40" /></a><a href="https://codesandbox.com/endymion1818"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="endymion1818" height="30" width="40" /></a><a href="https://dev.to/endymion1818"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="endymion1818" height="30" width="40" /></a><a href="https://linkedin.com/in/benjaminread1980"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminread1980" height="30" width="40" /></a><a href="https://twitter.com/muzzlehatch_"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="muzzlehatch_" height="30" width="40" /></a><a href="https://stackoverflow.com/users/3715390"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3715390" height="30" width="40" /></a>
-<a href="https://deliciousreverie.co.uk/rss.xml"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://deliciousreverie.co.uk/feed.xml" height="30" width="40" /></a></p>
+<p><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="endymion1818" height="30" width="40" /></a><a href="https://linkedin.com/in/benjaminread1980"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benjaminread1980" height="30" width="40" /></a><a href="https://deliciousreverie.co.uk/rss.xml"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://deliciousreverie.co.uk/feed.xml" height="30" width="40" /></a></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=endymion1818&layout=compact" alt="endymion1818" /></p>
 
