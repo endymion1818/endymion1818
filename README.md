@@ -21,7 +21,6 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Comments are now live](https://deliciousreverie.co.uk/blog/comments-are-live/)
 - [Alliteration in Poetry](https://deliciousreverie.co.uk/blog/alliteration-in-poetry/)
 - [How I&#39;m doing](https://deliciousreverie.co.uk/blog/how-im-doing/)
