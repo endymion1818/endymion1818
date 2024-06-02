@@ -21,11 +21,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using a moka pot on an induction hob](https://deliciousreverie.co.uk/blog/using-moka-pot-on-an-induction-hob/)
 - [Testing Web Components](https://deliciousreverie.co.uk/blog/testing-web-components/)
 - [Comments are now live](https://deliciousreverie.co.uk/blog/comments-are-live/)
 - [Alliteration in Poetry](https://deliciousreverie.co.uk/blog/alliteration-in-poetry/)
 - [How I&#39;m doing](https://deliciousreverie.co.uk/blog/how-im-doing/)
-- [Sending Emails via SendGrid with Cloudflare Functions](https://deliciousreverie.co.uk/blog/sending-emails-with-cloudflare-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
