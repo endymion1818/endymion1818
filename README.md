@@ -20,6 +20,8 @@
 
 - ⚡ Outside of work: Aside from being a busy Dad, I like wild swimming, reading and spending time at the beach with friends. Aussi je parle Francais un peu. Dwi'n dysgu Cymraeg hefyd. 也会说中文.
 
+- I have a [guestbook on my website](https://deliciousreverie.co.uk/guestbook/). Go sign it!
+
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
