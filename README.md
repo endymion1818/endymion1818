@@ -25,11 +25,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The WordPress &#39;Implosion&#39;](https://deliciousreverie.co.uk/blog/the-wordpress-implosion/)
 - [Implementing a carousel with classes only.](https://deliciousreverie.co.uk/blog/carousel-implementation-classes-only/)
 - [Better Type Safety with JSDoc](https://deliciousreverie.co.uk/blog/better-type-safety-with-jsdoc/)
 - [Observing Element Changes in the Shadow DOM](https://deliciousreverie.co.uk/blog/observing-element-changes-in-the-shadow-dom/)
 - [Using a moka pot on an induction hob](https://deliciousreverie.co.uk/blog/using-moka-pot-on-an-induction-hob/)
-- [Testing Web Components](https://deliciousreverie.co.uk/blog/testing-web-components/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
