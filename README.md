@@ -25,11 +25,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Multitenant Kubernetes System](https://deliciousreverie.co.uk/posts/building-multitenant-kubernetes-with-capsule/)
 - [Should I move from WordPress to code?](https://deliciousreverie.co.uk/posts/should-i-move-from-wordpress-to-code/)
 - [Start and end with the people](https://deliciousreverie.co.uk/posts/start-and-end-with-the-people/)
 - [The WordPress &#39;Implosion&#39;](https://deliciousreverie.co.uk/posts/the-wordpress-implosion/)
 - [Implementing a carousel with classes only.](https://deliciousreverie.co.uk/posts/carousel-implementation-classes-only/)
-- [Better Type Safety with JSDoc](https://deliciousreverie.co.uk/posts/better-type-safety-with-jsdoc/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
