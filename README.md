@@ -25,11 +25,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sad songs say so much](https://deliciousreverie.co.uk/posts/sad-songs-say-so-much/)
+- [Validate your commits with Git Hooks](https://deliciousreverie.co.uk/posts/validate-your-commits-with-git-hooks/)
 - [Building a media player with Web Components](https://deliciousreverie.co.uk/posts/build-media-player-web-components/)
 - [Waiting for an Element to appear in the DOM or shadow DOM with an Intersection Observer](https://deliciousreverie.co.uk/posts/waiting-for-an-element-with-intersection-observer/)
 - [Building a Multitenant Kubernetes System](https://deliciousreverie.co.uk/posts/building-multitenant-kubernetes-with-capsule/)
-- [Should I move from WordPress to code?](https://deliciousreverie.co.uk/posts/should-i-move-from-wordpress-to-code/)
-- [Start and end with the people](https://deliciousreverie.co.uk/posts/start-and-end-with-the-people/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
