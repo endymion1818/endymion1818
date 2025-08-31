@@ -12,11 +12,11 @@ I also have a [guestbook on my website](https://deliciousreverie.co.uk/guestbook
 # Recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How We&#39;re using JavaScript with Drupal](https://deliciousreverie.co.uk/posts/javascript-with-drupal/)
 - [Reading micro expressions](https://deliciousreverie.co.uk/posts/reading-micro-expressions/)
 - [Augmenting the details element](https://deliciousreverie.co.uk/posts/augmenting-details-element/)
 - [Dreamers, Builders and Cultivators](https://deliciousreverie.co.uk/posts/dreamers-builders-cultivators/)
 - [First steps with the Temporal API](https://deliciousreverie.co.uk/posts/first-steps-with-js-temporal/)
-- [Sad songs say so much](https://deliciousreverie.co.uk/posts/sad-songs-say-so-much/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
