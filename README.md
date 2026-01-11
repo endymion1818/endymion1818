@@ -12,11 +12,11 @@ I also have a [guestbook on my website](https://deliciousreverie.co.uk/guestbook
 # Recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Build a countdown timer using Temporal with React](https://deliciousreverie.co.uk/posts/react-countdown-timer/)
 - [How to Cache and De-duplicate Fetch Requests](https://deliciousreverie.co.uk/posts/cache-and-dedup-requests/)
 - [Lessons from refactoring a large dashboard application](https://deliciousreverie.co.uk/posts/refactoring-large-application/)
 - [How We&#39;re using JavaScript with Drupal](https://deliciousreverie.co.uk/posts/javascript-with-drupal/)
 - [Reading micro expressions](https://deliciousreverie.co.uk/posts/reading-micro-expressions/)
-- [Augmenting the details element](https://deliciousreverie.co.uk/posts/augmenting-details-element/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
