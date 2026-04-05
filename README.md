@@ -1,13 +1,11 @@
 <h1>Hi 👋, I'm Ben</h1>
 
 
-All of my projects are available here, but I regularly write  at [https://deliciousreverie.co.uk/](https://deliciousreverie.co.uk/). 
+All of my code projects are available here on GitHub
 
-I also have a [guestbook on my website](https://deliciousreverie.co.uk/guestbook/). Go sign it!
-
-<a href="https://deliciousreverie.co.uk">
-<img src="https://deliciousreverie.co.uk/images/default-share-card.png">
-</a>
+- My canonical domain is [ben.teuluread.cymru](https://ben.teuluread.cymru/)
+- I regularly write  at [https://deliciousreverie.co.uk/](https://deliciousreverie.co.uk/). 
+- I also [have an Agency site, called Rhedyn](https://rhedyn.cymru), which means "fern" in the Welsh language.
 
 # Recent articles
 
