@@ -5,7 +5,7 @@ All of my code projects are available here on GitHub
 
 - My canonical domain is [ben.teuluread.cymru](https://ben.teuluread.cymru/)
 - I regularly write  at [https://deliciousreverie.co.uk/](https://deliciousreverie.co.uk/). 
-- I also [have an Agency site, called Rhedyn](https://rhedyn.cymru), which means "fern" in the Welsh language.
+- I also [have an Agency, called Rhedyn](https://rhedyn.cymru), which means "fern" in the Welsh language.
 
 # Recent articles
 
