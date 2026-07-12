@@ -10,11 +10,11 @@ All of my code projects are available here on GitHub
 # Recent articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with Shopify in 2026](https://deliciousreverie.co.uk/posts/working-with-shopify-2026/)
 - [Ends of Many Things](https://deliciousreverie.co.uk/posts/end-of-many-things/)
 - [Hidden Histories](https://deliciousreverie.co.uk/posts/hidden-histories/)
 - [Build a countdown timer using Temporal with React](https://deliciousreverie.co.uk/posts/react-countdown-timer/)
 - [How to Cache and De-duplicate Fetch Requests](https://deliciousreverie.co.uk/posts/cache-and-dedup-requests/)
-- [Lessons from refactoring a large dashboard application](https://deliciousreverie.co.uk/posts/refactoring-large-application/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3>Connect with me:</h3>
